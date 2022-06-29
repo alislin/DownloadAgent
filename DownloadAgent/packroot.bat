@@ -1,0 +1,1 @@
+7z a ./Resources/wwwroot.7z ../wwwroot

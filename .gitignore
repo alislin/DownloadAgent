@@ -1,0 +1,10 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+.vscode
+package-lock.json
+bin
+obj
+.vs
+*.user
