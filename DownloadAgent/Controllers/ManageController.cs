@@ -41,6 +41,7 @@ namespace DownloadAgent.Controllers
             }
         }
 
+        [HttpGet]
         [Route("config")]
         public DownloadConfig LoadConfig()
         {
